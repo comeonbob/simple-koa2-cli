@@ -1,13 +1,13 @@
 {
   "name": "simple-koa2-cli",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "a koa2 cli",
   "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "koa2": "./bin/index"
+    "koa2-cli": "./bin/index"
   },
   "keywords": [
     "koa2",
