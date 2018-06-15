@@ -1,6 +1,6 @@
 {
   "name": "simple-koa2-cli",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "a koa2 cli",
   "main": "",
   "scripts": {
