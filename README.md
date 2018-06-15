@@ -24,9 +24,13 @@ $ koa2-cli init my-project
 
 The above command generates the project at `./my-project/`.
 
+### Doc
+
+It is recommended to read the [official documents of koa](https://koa.bootcss.com/) first.
+
 ### Local Templates
 
-Instead of a GitHub repo, just use a template on local file system
+Instead of a GitHub repo, just use the local template
 
 ### License
 
