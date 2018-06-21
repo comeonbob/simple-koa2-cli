@@ -1,10 +1,11 @@
 {
   "name": "simple-koa2-cli",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "description": "a koa2 cli",
-  "main": "",
+  "repository": "https://github.com/comeonbob/simple-koa2-cli.git",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node ./bin/index"
   },
   "bin": {
     "koa2-cli": "./bin/index"
